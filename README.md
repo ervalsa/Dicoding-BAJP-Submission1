@@ -2,8 +2,11 @@
 Submission 1 - Dicoding Belajar Android Jetpack Pro
 
 Dicoding Submit Date : 11 October 2020
+
 Dicoding Approve Date : 11 October 2020
+
 Rating Review : ★★★★★ (5 Stars) 
+
 Github Repo Date : 30 October 2020
 
 FYI this is my first time got first stars at Dicoding Academy Class
